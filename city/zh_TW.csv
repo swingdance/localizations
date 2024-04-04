@@ -1,5 +1,5 @@
-city,zh-Hant,zh-Hans
-Taipei,臺北,台北
-Hsinchu,新竹,新竹
-Taichung,臺中,台中
-Kaohsiung,高雄,高雄
+key,default,zh-Hant,zh-Hans
+Taipei,Taipei,臺北,台北
+Hsinchu,Hsinchu,新竹,新竹
+Taichung,Taichung,臺中,台中
+Kaohsiung,Kaohsiung,高雄,高雄
