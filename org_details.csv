@@ -1,6 +1,6 @@
 key,default,zh-Hans
 name,Name,名称
-local_name,Local Name,当地名称
+name_local,Local Name,当地名称
 since,Year Established,成立年份
 city,City,所在城市
 styles,Styles,舞种类型
