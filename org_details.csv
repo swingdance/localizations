@@ -1,4 +1,5 @@
 key,default,zh-Hans
+info,Info,基本信息
 name,Name,名称
 name_local,Local Name,当地名称
 since,Year Established,成立年份
@@ -9,6 +10,7 @@ party,Party,舞会信息
 contact,Contact,联系
 email,Email,电子邮箱
 website,Website,网站
+social_links,Social Links,社交链接
 fb,Facebook,Facebook
 ig,Instagram,Instagram
 yt,YouTube,YouTube
