@@ -4,6 +4,7 @@ name,Name,名称
 name_local,Local Name,当地名称
 since,Year Established,成立年份
 city,City,所在城市
+province,Province,省份
 styles,Styles,舞种类型
 venue,Venue,场地
 party,Party,舞会信息
