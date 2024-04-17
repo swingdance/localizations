@@ -1,6 +1,14 @@
 key,default,zh-Hans
+en_GB,England,英国
+en_US,America,美国
+es_ES,Spain,西班牙
+fi_FI,Finland,芬兰
+fr_FR,France,法国
 ko_KR,South Korea,韩国
+ru_RU,Russia,俄罗斯
+sv_SE,Sweden,瑞典
 th_TH,Thailand,泰国
+vi_VN,Vietnam,越南
 zh_CN,China,中国
 zh_HK,Hong Kong,香港
 zh_TW,Taiwan,台湾
