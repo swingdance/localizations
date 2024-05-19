@@ -1,5 +1,4 @@
 key,default,zh-Hans
-info,Info,基本信息
 org,Org,组织
 abb,Abb,缩写
 name,Name,名称
@@ -12,13 +11,3 @@ styles,Styles,舞种类型
 city,City,所在城市
 venue,Venue,场地
 details,Details,详细信息
-contact,Contact,联系
-email,Email,电子邮箱
-website,Website,网站
-social_links,Social Links,社交链接
-fb,Facebook,Facebook
-ig,Instagram,Instagram
-yt,YouTube,YouTube
-wo,WeChat Official Account,微信公众号
-bl,Bilibili,Bilibili
-rb,Xiaohongshu,小红书
