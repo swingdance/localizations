@@ -4,6 +4,7 @@ en_US,america,America,美国
 es_ES,europe,Spain,西班牙
 fi_FI,europe,Finland,芬兰
 fr_FR,europe,France,法国
+ja_JP,asia,Japan,日本
 ko_KR,asia,South Korea,韩国
 ru_RU,europe,Russia,俄罗斯
 sv_SE,europe,Sweden,瑞典
@@ -12,4 +13,3 @@ vi_VN,asia,Vietnam,越南
 zh_CN,asia,China,中国
 zh_HK,asia,Hong Kong,香港
 zh_TW,asia,Taiwan,台湾
-ja_JP,asia,Japan,日本
