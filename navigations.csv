@@ -8,13 +8,16 @@ asia,Asia,亚洲
 europe,Europe,欧洲
 oceania,Oceania,大洋洲
 others,Others,其它
-release_notes,Release Notes,更新日志
+about,About,关于
+changelogs,Changelogs,更新日志
 support,Support,帮助
 p_n_t,Privacy & Terms,隐私与条款
 privacy,Privacy Policy,隐私政策
 terms,Terms of Service,服务条款
 swing_kids,Swing Kids,Swing Kids
 swing_news,Swing News,Swing News
+overview,Overview,总览
+cities,Cities,城市
 timeline,Timeline,时间线
 archives,Archives,存档
 events_in_year,Events in {KY_VALUE_year},{KY_VALUE_year}年活动
@@ -26,4 +29,11 @@ all_host_cities_this_year,All Host Cities This Year,今年所有主办城市
 all_events_this_year,All Events This Year,今年所有活动
 tags,Tags,标签
 orgs,Orgs,组织
-about,About,关于
+org,Org,组织
+events,Events,活动
+event,Event,活动
+submit_entity,+ Submit Org/Event,+ 添加组织/活动
+submit_org,Submit Org,添加组织
+submit_event,Submit Event,添加活动
+region_code,Region Code,地区编码
+region_name,Region Name,地区名称

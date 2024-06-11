@@ -1,8 +1,10 @@
 key,default,zh-Hans
 info,Info,基本信息
+edit_org,Edit Org,编辑组织
+add_event,Add Event,添加活动
 name,Name,名称
 name_local,Local Name,当地名称
-since,Year Established,成立年份
+since,Since,成立于
 city,City,所在城市
 province,Province,省份
 styles,Styles,舞种类型
