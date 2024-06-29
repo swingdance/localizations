@@ -2,11 +2,6 @@ key,default,zh-Hans
 translations,Translations,翻译
 languages,Languages,语言
 home,Home,首页
-africa,Africa,非洲
-america,America,美洲
-asia,Asia,亚洲
-europe,Europe,欧洲
-oceania,Oceania,大洋洲
 others,Others,其它
 about,About,关于
 changelogs,Changelogs,更新日志
@@ -21,12 +16,12 @@ cities,Cities,城市
 timeline,Timeline,时间线
 archives,Archives,存档
 events_in_year,Events in {KY_VALUE_year},{KY_VALUE_year}年活动
-currently_available_regions,Currently Available Regions,当前可选区域
+currently_collected_regions,Currently Collected Regions,当前已收录区域
 regions,Regions,地区
 regions:all,All,所有
 events_by_city,Events by City,按城市划分
-all_host_cities_this_year,All Host Cities This Year,今年所有主办城市
-all_events_this_year,All Events This Year,今年所有活动
+host_cities,Host Cities,主办城市
+collected_events,Collected Events,已收录活动
 tags,Tags,标签
 orgs,Orgs,组织
 org,Org,组织
