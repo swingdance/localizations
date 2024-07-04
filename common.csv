@@ -1,3 +1,8 @@
 key,default,zh-Hans
+Name,Name,名称
+Event,Event,活动
+Date,Date,日期
+Region,Region,地区
+City,City,城市
 Add,Add,添加
 Submit,Submit,提交
