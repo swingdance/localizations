@@ -1,0 +1,6 @@
+key,default,zh-Hans
+LANG.YEAR.description,Archive of Swing Dance Events in {KY_VALUE_year}.,{KY_VALUE_year}年举办的摇摆舞活动存档。
+LANG.REGION.YEAR.description,Archive of Swing Dance events in {KY_VALUE_region} ({KY_VALUE_year}).,{KY_VALUE_year}年在{KY_VALUE_region}举办的摇摆舞活动存档。
+LANG.REGION.index.description,Swing Dance events in {KY_VALUE_region} (Timeline).,在{KY_VALUE_region}举办的摇摆舞活动（时间线）。
+LANG.REGION.by_city.description,Swing Dance events in {KY_VALUE_region} (Grouped by City).,在{KY_VALUE_region}举办的摇摆舞活动（以城市划分）。
+LANG.REGION.host_cities.description,Overview of cities hosting Swing Dance events in {KY_VALUE_region}.,{KY_VALUE_region}一些举办摇摆舞活动的城市。
