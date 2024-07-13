@@ -1,5 +1,6 @@
 key,default,zh-Hans
 description,Event details of {KY_VALUE_description.name}.,关于“{KY_VALUE_description.name}”的活动信息。
+add_to_cal,Add to Calendar,添加到日历
 organizer,Organizer,组织者
 venue,Venue,场地
 details,Details,详细信息
