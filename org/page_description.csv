@@ -1,3 +1,7 @@
 key,default,zh-Hans
 LANG.REGION.index.description,Overview of collected Swing Dance orgs in {KY_VALUE_region}.,{KY_VALUE_region}已收录的摇摆舞组织总览。
 LANG.REGION.cities.description,Overview of cities in {KY_VALUE_region} with Swing Dance orgs.,{KY_VALUE_region}一些有摇摆舞组织的城市概览。
+LANG.submit.index.title,Submit Org/Event,添加组织/活动
+LANG.submit.index.description,Submit a new organization or event.,添加一个新组织或摇摆舞活动。
+LANG.submit.REGION.title,Submit Org/Event in {KY_VALUE_region},添加组织/活动 • {KY_VALUE_region}
+LANG.submit.REGION.description,Submit a new organization or event in {KY_VALUE_region}.,添加一个在{KY_VALUE_region}的新组织或摇摆舞活动。
