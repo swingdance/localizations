@@ -1,7 +1,11 @@
 key,default,zh-Hans
 description,Event details of {KY_VALUE_description.name}.,关于“{KY_VALUE_description.name}”的活动信息。
-add_to_cal,Add to Calendar,添加到日历
 organizer,Organizer,组织方
+add_to_cal,Add to Calendar,添加到日历
+date_tbc,Date TBC,日期待确定
+date_warning,The event's specific date has not yet been confirmed or updated; it is provided for reference only.,活动的具体日期尚未确定或更新，仅供参考。
+submit_date,Submit Date,提供日期
+event_details_url,Event Details URL,活动详情链接
 venue,Venue,场地
 details,Details,详细信息
 edit_info,Edit Info,编辑信息
